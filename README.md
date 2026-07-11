@@ -11,7 +11,6 @@
   <a href="https://wa.me/5547999150055" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp_(47)_99915--0055-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=scsilva8&color=0e75b6&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" />
 </p>
 
 ---
