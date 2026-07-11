@@ -67,7 +67,17 @@
 ✅ Integração em Pipelines CI/CD         ███████████████░░░░░  75%
 ✅ Agile / Scrum                         ███████████████████░  95%
 ```
+## 🧪 Sobre minha atuação
 
+- 🔹 QA Automation Engineer
+- 🔹 Automação de testes E2E e API
+- 🔹 Planejamento e execução de estratégias de testes
+- 🔹 Testes funcionais, regressivos e exploratórios
+- 🔹 Testes de integração e validação de APIs REST
+- 🔹 Construção de frameworks de automação
+- 🔹 Integração de testes em pipelines CI/CD
+- 🔹 Atuação em ambientes ágeis (Scrum/Kanban)
+- 🔹 Mentoria e compartilhamento de conhecimento em QA
 ---
 
 ## 📊 Estatísticas do GitHub
