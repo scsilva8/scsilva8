@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Sebastião César (Cesarminerva) 👋</h1>
+<h1 align="center">Olá, sou César Minerva 👋</h1>
 <h3 align="center">QA Engineer Sênior | Automação de Testes | Playwright | Cypress | Testes de API | Quality Engineering | TypeScript | CI/CD</h3>
 
 <p align="center">
@@ -17,11 +17,10 @@
 
 ## 👨‍💻 Sobre Mim
 
-🔍 **QA Engineer Sênior** na **Stefanini** com **3–5 anos** de experiência projetando e implementando soluções robustas de automação de testes em camadas web e de API.
+🔍 **QA Engineer Sênior** na **Stefanini** com **5–6 anos** de experiência projetando e implementando soluções robustas de automação de testes em camadas web e de API.
 
 🚀 Apaixonado por qualidade de software, arquitetura de automação e melhoria contínua nos pipelines de entrega de software.
 
-📍 Brasil
 
 - 🧪 Especializado em **automação de testes end-to-end** com Cypress e Playwright
 - 🔗 Experiente em **testes de API** e validação de contratos com Postman
