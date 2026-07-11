@@ -1,48 +1,54 @@
-<h1 align="center">Hi, I'm Sebastião César (Cesarminerva) 👋</h1>
-<h3 align="center">Senior QA Engineer | Test Automation | Playwright | Cypress | API Testing | Quality Engineering | TypeScript | CI/CD</h3>
+<h1 align="center">Olá, sou Sebastião César (Cesarminerva) 👋</h1>
+<h3 align="center">QA Engineer Sênior | Automação de Testes | Playwright | Cypress | Testes de API | Quality Engineering | TypeScript | CI/CD</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cesarminerva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=scsilva8&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="mailto:cesar.minerva.silva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5547999150055" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_(47)_99915--0055-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=scsilva8&color=0e75b6&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-🔍 **Senior QA Engineer** at **Stefanini** with **3–5 years** of experience designing and implementing robust test automation solutions across web and API layers.
+🔍 **QA Engineer Sênior** na **Stefanini** com **3–5 anos** de experiência projetando e implementando soluções robustas de automação de testes em camadas web e de API.
 
-🚀 Passionate about software quality, automation architecture, and continuous improvement of software delivery pipelines.
+🚀 Apaixonado por qualidade de software, arquitetura de automação e melhoria contínua nos pipelines de entrega de software.
 
-📍 Brazil
+📍 Brasil
 
-- 🧪 Specialized in **end-to-end test automation** with Cypress and Playwright
-- 🔗 Experienced in **API testing** and contract validation with Postman
-- ⚙️ Advocate for **Shift-Left Testing** and quality-first culture
-- 📊 Skilled at integrating automated tests into **CI/CD pipelines**
-- 🤝 Collaborating with cross-functional teams in **agile environments**
+- 🧪 Especializado em **automação de testes end-to-end** com Cypress e Playwright
+- 🔗 Experiente em **testes de API** e validação de contratos com Postman
+- ⚙️ Defensor do **Shift-Left Testing** e da cultura de qualidade desde o início
+- 📊 Habilidoso na integração de testes automatizados em **pipelines CI/CD**
+- 🤝 Atuação colaborativa com times multidisciplinares em **ambientes ágeis**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Ferramentas & Tecnologias
 
-### Test Automation
+### Automação de Testes
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### Languages
+### Linguagens
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### DevOps & Collaboration
+### DevOps & Colaboração
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -53,27 +59,27 @@
 
 ---
 
-## 📌 What I Do
+## 📌 O Que Eu Faço
 
 ```text
-✅ Test Strategy & Planning       ████████████████░░░░  80%
-✅ UI Test Automation (Cypress)   ███████████████████░  95%
-✅ API Testing (Postman/REST)      ██████████████████░░  90%
-✅ E2E Automation (Playwright)    ████████████████░░░░  80%
-✅ CI/CD Pipeline Integration     ███████████████░░░░░  75%
-✅ Agile / Scrum                  ███████████████████░  95%
+✅ Estratégia e Planejamento de Testes   ████████████████░░░░  80%
+✅ Automação UI (Cypress)                ███████████████████░  95%
+✅ Testes de API (Postman/REST)           ██████████████████░░  90%
+✅ Automação E2E (Playwright)            ████████████████░░░░  80%
+✅ Integração em Pipelines CI/CD         ███████████████░░░░░  75%
+✅ Agile / Scrum                         ███████████████████░  95%
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/scsilva8">
     <img src="https://img.shields.io/badge/Repositórios_Públicos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/github/followers/scsilva8?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/scsilva8?label=Stars&style=for-the-badge&logo=github&color=ffd700" />
+  <img src="https://img.shields.io/github/followers/scsilva8?label=Seguidores&style=for-the-badge&logo=github&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/scsilva8?label=Estrelas&style=for-the-badge&logo=github&color=ffd700" />
 </p>
 
 <p align="center">
@@ -82,18 +88,18 @@
 
 ---
 
-## 🏆 QA Mindset
+## 🏆 Mentalidade QA
 
-> *"Quality is never an accident; it is always the result of intelligent effort."*
+> *"A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente."*
 > — John Ruskin
 
-- 🧠 **Think like a user, test like a developer**
-- 🔄 **Automate the repeatable, explore the unknown**
-- 📈 **Metrics-driven quality** — test coverage, pass rate, flakiness tracking
-- 🚦 **Shift-Left** — catch bugs before they reach production
+- 🧠 **Pense como usuário, teste como desenvolvedor**
+- 🔄 **Automatize o repetível, explore o desconhecido**
+- 📈 **Qualidade baseada em métricas** — cobertura de testes, taxa de aprovação, rastreamento de instabilidades
+- 🚦 **Shift-Left** — encontre os bugs antes de chegarem à produção
 
 ---
 
 <p align="center">
-  <i>Let's connect and build quality software together! 🤝</i>
+  <i>Vamos nos conectar e construir software de qualidade juntos! 🤝</i>
 </p>
