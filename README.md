@@ -69,8 +69,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=scsilva8&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scsilva8&layout=compact&theme=dark&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=scsilva8&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scsilva8&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scsilva8&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=scsilva8&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
