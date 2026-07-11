@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sebastião César 👋</h1>
-<h3 align="center">Senior QA Engineer | Test Automation Specialist</h3>
+<h1 align="center">Hi, I'm Sebastião César (Cesarminerva) 👋</h1>
+<h3 align="center">Senior QA Engineer | Test Automation | Playwright | Cypress | API Testing | Quality Engineering | TypeScript | CI/CD</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cesarminerva/" target="_blank">
